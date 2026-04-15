@@ -6,7 +6,7 @@
 - Model Fitting 
 - Results
 
-![alt text](https://github.com/YoshitaB/Toxic-Comment-Classifier/blob/main/image/Power-In-Positivity.jpg)
+![alt text](https://github.com/Shimpikashyap530/Toxic-Comment-Classification/blob/main/images/Power-In-Positivity.jpg)
 
 ### Dataset Overview
 The threat of abuse and harassment online prevent many people from expressing themselves and make them give up on seeking different opinions. In the meantime, platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments. 
