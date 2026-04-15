@@ -78,4 +78,7 @@ Therefore, we choose Linear SVC as our optimal model.
 ### Top and Bottom Features
 ![alt text](https://github.com/Shimpikashyap530/Toxic-Comment-Classification/blob/main/images/topbottomwords.png)
 
+### datset 
+link: https://drive.google.com/drive/folders/11nWh7gC68fcv9Xes_ImO-Gtir56VLfO5?usp=drive_link
+
 
